@@ -1,0 +1,24 @@
+{
+  "name": "fjvndhch-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjvndhch/news.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"fjvndhch": "^1.0.0",
+  	"guzibiji": "^1.0.0",
+  	"sgobors": "^1.0.0",
+	"sgobors-one": "^1.0.0",
+  	"gowinov": "^1.0.0",
+	"gowinov-one": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
